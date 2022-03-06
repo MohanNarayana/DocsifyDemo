@@ -1,5 +1,9 @@
-[Home](/)
+- [Home](/)
 
-[Quick Start](QuickStart.md)
+- [Quick Start](QuickStart.md)
 
-[GQL](GraphQL/GraphQL.md)
+- GraphQL (Not a link)
+
+    - [GQL](GraphQL.md)
+
+    - [Queries](Queries.md)
